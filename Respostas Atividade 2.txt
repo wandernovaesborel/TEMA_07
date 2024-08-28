@@ -20,12 +20,3 @@ Resposta 4:
 
 const multiplicarPorDois = num => num * 2
 console.log(multiplicarPorDois(7)); // Saída: 14
-
-
-
-
-funcƟon mulƟplicarPorDois(num) {
- let resultado = num * 2; 
- return resultado; 
-} 
-console.log(mulƟplicarPorDois(7)); // Saída: 14
